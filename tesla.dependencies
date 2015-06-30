@@ -5,9 +5,9 @@
     "branch":     "lp5.1" 
   },
  {
-    "repository": "CyanogenMod/android_kernel_lge_g3",
+    "repository": "Tesla-Redux-Devices/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch": "cm-12.1"
+    "branch": "lp5.1"
   },
   {
     "repository":  "CyanogenMod/android_device_qcom_common",
