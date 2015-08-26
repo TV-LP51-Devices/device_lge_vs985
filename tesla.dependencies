@@ -2,12 +2,12 @@
   {
     "repository": "Tesla-Redux-Devices/device_lge_g3-common",
     "target_path": "device/lge/g3-common",
-    "branch":     "lp5.1" 
+    "branch":     "testing" 
   },
  {
     "repository": "Tesla-Redux-Devices/kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch": "lp5.1"
+    "branch": "testing"
   },
   {
     "repository":  "CyanogenMod/android_device_qcom_common",
