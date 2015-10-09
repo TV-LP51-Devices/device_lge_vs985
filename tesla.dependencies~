@@ -3,13 +3,21 @@
     "remote":      "github",
     "repository":  "Tesla-Redux-Devices/device_lge_g3-common",
     "target_path": "device/lge/g3-common",
+<<<<<<< HEAD
+    "branch":     "testing" 
+=======
     "branch":      "lp5.1" 
+>>>>>>> 39c6d69e4a4ab86ef2f3eb34cca00968bd317d3b
   },
  {
     "remote":      "github",
     "repository":  "Tesla-Redux-Devices/kernel_lge_g3",
     "target_path": "kernel/lge/g3",
+<<<<<<< HEAD
+    "branch": "testing"
+=======
     "branch":      "lp5.1"
+>>>>>>> 39c6d69e4a4ab86ef2f3eb34cca00968bd317d3b
   },
   {
     "remote":      "github",
