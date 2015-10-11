@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "TV-LP51-Devices/device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "branch":     "lp5.1" 
+  },
+ {
+    "repository": "777jon/g3_kernel",
+    "target_path": "kernel/lge/g3",
+    "branch": "lp-release"
+  },
+  {
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-12.1"
+  },
+  {
+  "repository": "TV-LP51-Devices/proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "branch":      "cm-12.1"
+ }
+]
