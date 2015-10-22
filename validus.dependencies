@@ -10,11 +10,6 @@
     "branch": "cm-13.0"
   },
   {
-    "repository":  "CyanogenMod/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch":      "cm-13.0"
-  },
-  {
   "repository": "TheMuppets/proprietary_vendor_lge",
   "target_path": "vendor/lge",
   "branch":      "cm-13.0"
