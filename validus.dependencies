@@ -13,5 +13,15 @@
   "repository": "TheMuppets/proprietary_vendor_lge",
   "target_path": "vendor/lge",
   "branch":      "cm-13.0"
+ },
+ {
+  "repository": "CyanogenMod/android_external_stlport",
+  "target_path": "external/stlport",
+  "branch": "cm-13.0"
+ },
+ {
+  "repository": "CyanogenMod/android_hardware_sony_thermanager",
+  "target_path": "hardware/sony/thermanager",
+  "branch": "cm-13.0"
  }
 ]
