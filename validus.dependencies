@@ -7,7 +7,7 @@
  {
     "repository": "TV-LP51-Devices/kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch": "mm6.0"
+    "branch": "mm6.0-test"
   },
   {
   "repository": "TheMuppets/proprietary_vendor_lge",
